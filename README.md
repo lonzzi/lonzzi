@@ -6,14 +6,14 @@
 **My Skills:**
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,docker,go,js,ts,react,vue,tailwind,electron" />
+    <img src="https://skillicons.dev/icons?i=git,docker,go,js,ts,react,vue,tailwind,electron&perline=6" />
   </a>
 </p>
 
 **Current Learning:**
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=flutter,nextjs,py,rust" />
+    <img src="https://skillicons.dev/icons?i=flutter,nextjs,py,rust&perline=6" />
   </a>
 </p>
 
