@@ -10,7 +10,7 @@
   </a>
 </p>
 
-**Current Learning:**
+**Currently Learning:**
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=flutter,nextjs,py,rust&perline=6" />
