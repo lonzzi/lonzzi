@@ -26,4 +26,4 @@
 </p>
 
 ## Visit Count
-<img src="https://moe-counter.glitch.me/get/@lonzzi?theme=moebooru">
+<img src="https://count.ronki.moe/github:lonzzi?theme=rule34&render=pixelated">
