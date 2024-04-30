@@ -1,7 +1,6 @@
 ## Hi there 👋
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=lonzzi&layout=compact&langs_count=8&card_width=320" />
-</a>
+
+<img height=160 align="right" src="https://s2.loli.net/2024/05/01/uw3cVq5TUCnhYLy.png" />
 
 **My Skills:**
 <p align="left">
@@ -9,6 +8,10 @@
     <img src="https://skillicons.dev/icons?i=git,docker,go,js,ts,react,vue,tailwind,electron&perline=6" />
   </a>
 </p>
+
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=lonzzi&layout=compact&langs_count=8&card_width=320" />
+</a>
 
 **Currently Learning:**
 <p align="left">
