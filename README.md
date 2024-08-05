@@ -22,6 +22,15 @@
 
 **Waka Time:**
 <!--START_SECTION:waka-->
+
+```txt
+TypeScript   21 hrs 33 mins  ██████████████████████▓░░   90.09 %
+JSON         55 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.88 %
+JavaScript   32 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.24 %
+Python       21 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.51 %
+YAML         14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.99 %
+```
+
 <!--END_SECTION:waka-->
 
 **Contact Me:**
