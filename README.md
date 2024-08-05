@@ -75,5 +75,7 @@ CSS                      1 repo              █░░░░░░░░░░�
   <a href="https://t.me/ronkimoe"><img alt="Static Badge" src="https://img.shields.io/badge/telegram-ColourCode?style=flat-square&logo=telegram&color=%23ED1965"></a>
 </p>
 
-## Visit Count
-<img src="https://count.ronki.moe/github:lonzzi?theme=rule34&render=pixelated">
+**Visit Count:**
+<p>
+  <img src="https://count.ronki.moe/github:lonzzi?theme=rule34&render=pixelated">
+</p>
