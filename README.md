@@ -22,24 +22,12 @@
 
 **Waka Time:**
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-116%20hrs%2043%20mins-blue)
-
-**🐱 My GitHub Data** 
-
-> 📦 38.5 kB Used in GitHub's Storage 
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 14 Public Repositories 
- > 
-> 🔑 22 Private Repositories 
- > 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                71 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.21 % 
-🌆 Daytime                414 commits         ████████████░░░░░░░░░░░░░   47.86 % 
-🌃 Evening                331 commits         ██████████░░░░░░░░░░░░░░░   38.27 % 
+🌞 Morning                71 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.20 % 
+🌆 Daytime                415 commits         ████████████░░░░░░░░░░░░░   47.92 % 
+🌃 Evening                331 commits         ██████████░░░░░░░░░░░░░░░   38.22 % 
 🌙 Night                  49 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.66 % 
 ```
 
@@ -76,12 +64,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 
 
 
-**Timeline**
 
-![Lines of Code chart](https://raw.githubusercontent.com/lonzzi/lonzzi/main/assets/bar_graph.png)
-
-
- Last Updated on 05/08/2024 07:39:34 UTC
 <!--END_SECTION:waka-->
 
 **Contact Me:**
