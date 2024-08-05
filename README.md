@@ -20,6 +20,10 @@
   </a>
 </p>
 
+**Waka Time:**
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 **Contact Me:**
 <p>
   <a href="https://space.bilibili.com/13424328"><img alt="Static Badge" src="https://img.shields.io/badge/bilibili-ColourCode?style=flat-square&logo=bilibili&color=%23fb7299"></a>
