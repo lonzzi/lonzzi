@@ -5,7 +5,7 @@
 **My Skills:**
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,docker,go,js,ts,react,vue,tailwind,electron&perline=6" />
+    <img src="https://skillicons.dev/icons?i=git,docker,go,js,ts,react,vue,tailwind,electron,nextjs&perline=8" />
   </a>
 </p>
 
@@ -16,7 +16,7 @@
 **Currently Learning:**
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=flutter,nextjs,py,rust&perline=6" />
+    <img src="https://skillicons.dev/icons?i=flutter,dart,py,rust&perline=8" />
   </a>
 </p>
 
