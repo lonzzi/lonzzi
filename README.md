@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<img height=160 align="right" src="https://s2.loli.net/2024/05/01/uw3cVq5TUCnhYLy.png" />
+<img height=160 src="https://s2.loli.net/2024/05/01/uw3cVq5TUCnhYLy.png" />
 
 **My Skills:**
 <p align="left">
@@ -9,16 +9,16 @@
   </a>
 </p>
 
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="right" src="https://stats.ronki.moe/api/top-langs?username=lonzzi&layout=compact&langs_count=8&card_width=320" />
-</a>
-
 **Currently Learning:**
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=flutter,dart,py,rust&perline=8" />
   </a>
 </p>
+
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 src="https://stats.ronki.moe/api/top-langs?username=lonzzi&layout=compact&langs_count=8&card_width=320" />
+</a>
 
 **Waka Time:**
 <!--START_SECTION:waka-->
