@@ -9,15 +9,17 @@
   </a>
 </p>
 
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="right" src="https://stats.ronki.moe/api/top-langs?username=lonzzi&layout=compact&langs_count=8&card_width=320" />
+</a>
+
 **Currently Learning:**
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=flutter,dart,py,rust" />
   </a>
-  <a href="https://github.com/anuraghazra/convoychat">
-    <img height=200 align="right" src="https://stats.ronki.moe/api/top-langs?username=lonzzi&layout=compact&langs_count=8&card_width=320" />
-  </a>
 </p>
+
 
 
 **Waka Time:**
