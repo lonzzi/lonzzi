@@ -61,8 +61,7 @@ Mac                      6 hrs 3 mins        ███████████�
 <p>
   <a href="https://space.bilibili.com/13424328"><img alt="Static Badge" src="https://img.shields.io/badge/bilibili-ColourCode?style=flat-square&logo=bilibili&color=%23fb7299"></a>
   <a href="https://github.com/lonzzi"><img alt="Static Badge" src="https://img.shields.io/badge/GitHub-ColourCode?style=flat-square&logo=GitHub&color=%23555555"></a>
-  <a href="https://twitter.com/lonzzi102"><img alt="Static Badge" src="https://img.shields.io/badge/X-ColourCode?style=flat-square&logo=x&color=%231D9BF0"></a>
-  <a href="https://t.me/ronkimoe"><img alt="Static Badge" src="https://img.shields.io/badge/telegram-ColourCode?style=flat-square&logo=telegram&color=%23ED1965"></a>
+  <a href="https://twitter.com/lonzzi"><img alt="Static Badge" src="https://img.shields.io/badge/X-ColourCode?style=flat-square&logo=x&color=%231D9BF0"></a>
 </p>
 
 **Visit Count:**
