@@ -40,13 +40,17 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Kotlin                   20 mins             ██████████░░░░░░░░░░░░░░░   40.70 % 
+CMake                    7 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.81 % 
+JSON                     6 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.75 % 
+Ruby                     5 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.91 % 
+Groovy                   4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.24 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  51 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      51 mins             █████████████████████████   100.00 % 
 ```
 
 
