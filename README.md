@@ -24,6 +24,31 @@
 
 **Waka Time:**
 <!--START_SECTION:waka-->
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                178 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.62 % 
+🌆 Daytime                862 commits         ██████████░░░░░░░░░░░░░░░   41.72 % 
+🌃 Evening                794 commits         ██████████░░░░░░░░░░░░░░░   38.43 % 
+🌙 Night                  232 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.23 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 
 <!--END_SECTION:waka-->
 
