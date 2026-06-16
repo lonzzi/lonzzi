@@ -1,33 +1,49 @@
 ## Hi there 👋
 
-<img align="right" height=160 src="https://s2.loli.net/2024/05/01/uw3cVq5TUCnhYLy.png" />
+<div align="center">
+  <img height="160" src="https://s2.loli.net/2024/05/01/uw3cVq5TUCnhYLy.png" />
+</div>
 
-**My Skills:**
-<p align="left">
+---
+
+### Skills
+
+<div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,docker,go,js,ts,react,vue,tailwind,electron,nextjs&perline=8" />
+    <img src="https://skillicons.dev/icons?i=git,docker,go,js,ts,react,vue,tailwind,electron,nextjs&perline=10" />
   </a>
-</p>
+</div>
 
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="right" src="https://stats.ronki.moe/api/top-langs?username=lonzzi&layout=compact&langs_count=8&card_width=320" />
-</a>
+---
 
-**Currently Learning:**
-<p align="left">
+### Currently Learning
+
+<div align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=flutter,dart,py,rust" />
   </a>
-</p>
+</div>
 
-**Contact Me:**
-<p>
-  <a href="https://space.bilibili.com/13424328"><img alt="Static Badge" src="https://img.shields.io/badge/bilibili-ColourCode?style=flat-square&logo=bilibili&color=%23fb7299"></a>
-  <a href="https://github.com/lonzzi"><img alt="Static Badge" src="https://img.shields.io/badge/GitHub-ColourCode?style=flat-square&logo=GitHub&color=%23555555"></a>
-  <a href="https://twitter.com/lonzzi"><img alt="Static Badge" src="https://img.shields.io/badge/X-ColourCode?style=flat-square&logo=x&color=%231D9BF0"></a>
-</p>
+---
 
-**Visit Count:**
-<p>
+### Top Languages
+
+<div align="center">
+  <img src="https://stats.ronki.moe/api/top-langs?username=lonzzi&layout=compact&langs_count=8&card_width=360" />
+</div>
+
+---
+
+### Contact Me
+
+<div align="center">
+  <a href="https://space.bilibili.com/13424328"><img alt="bilibili" src="https://img.shields.io/badge/bilibili-fb7299?style=for-the-badge&logo=bilibili&logoColor=white"></a>
+  <a href="https://github.com/lonzzi"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://twitter.com/lonzzi"><img alt="X" src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"></a>
+</div>
+
+---
+
+<div align="center">
   <img src="https://count.ronki.moe/github:lonzzi?theme=rule34&render=pixelated">
-</p>
+</div>
