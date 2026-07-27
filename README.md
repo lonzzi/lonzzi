@@ -24,6 +24,8 @@
 
 **Waka Time:**
 <!--START_SECTION:waka-->
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-23%20hrs%2057%20mins-blue?style=flat)
+
 **I'm a Night 🦉** 
 
 ```text
@@ -47,6 +49,12 @@ No Activity Tracked This Week
 
 💻 Operating System: 
 No Activity Tracked This Week
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+No AI Coding Activity Tracked This Week
 ```
 
 
